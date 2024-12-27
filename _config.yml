@@ -1,6 +1,6 @@
 title: BoxOffice2
 description: "A website about box office information."
-url: "https://username.github.io"
+url: "https://asemabuothman.github.io"
 baseurl: "/repository-name"  # Leave empty if it's your user page (e.g., https://username.github.io)
 
 # Optional settings
@@ -11,11 +11,11 @@ exclude:
 
 # Custom settings
 author:
-  name: "Your Name"
-  email: "your-email@example.com"
+  name: "Asem Abu Othman"
+  email: "asemabuothman@gmail.com"
 
 # Social media links
 social:
-  twitter: "https://twitter.com/username"
-  github: "https://github.com/username"
-  linkedin: "https://linkedin.com/in/username"
+  twitter: "https://twitter.com/asemabuothman"
+  github: "https://github.com/asemabuothman"
+  linkedin: "https://linkedin.com/in/asemabuothman"
